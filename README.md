@@ -1,7 +1,7 @@
 # podyplomowe
 Program dodający dwie cyfry do siebie
 
-Program dodaje cyfyr
+Program dodaje cyfry
 1. 5
 2. 6
 

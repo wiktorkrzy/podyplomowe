@@ -4,5 +4,7 @@ public class AddNumbers {
         int b = 6;
         int result = a + b;
         System.out.println("Result: " + result);
+
+        // Komentarz testowy
     }
 }
